@@ -5,7 +5,7 @@ Conteúdos sobre Segurança em APIs de apresentação realizada durante a ediç�
 
 Título da apresentação: **Implementando segurança em APIs REST: ferramentas, boas práticas, cuidados...**
 
-Data: **27/06/2025 (quinta-feira)**
+Data: **27/06/2024 (quinta-feira)**
 
 Tipo do evento: **Online**
 
